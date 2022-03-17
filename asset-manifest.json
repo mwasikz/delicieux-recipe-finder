@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/delicieux-recipe-finder/static/css/main.386d9315.css",
+    "main.js": "/delicieux-recipe-finder/static/js/main.1a489f77.js",
+    "static/media/delicieux-logo.png": "/delicieux-recipe-finder/static/media/delicieux-logo.4a587d923a20161eb341.png",
+    "index.html": "/delicieux-recipe-finder/index.html",
+    "main.386d9315.css.map": "/delicieux-recipe-finder/static/css/main.386d9315.css.map",
+    "main.1a489f77.js.map": "/delicieux-recipe-finder/static/js/main.1a489f77.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.386d9315.css",
+    "static/js/main.1a489f77.js"
+  ]
+}
