@@ -18,3 +18,8 @@
 - Homepage conatins popular and trending recipes with regular updates.
 - Search any recipes.
 - View the instructions and ingredients of any recipe.
+
+### :orange_circle: How to Run
+- Clone this repository by `git clone https://github.com/mwasikz/delicieux-recipe-finder.git `
+- Install the dependencies using `npm install`
+- Run `npm start`
