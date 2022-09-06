@@ -12,3 +12,9 @@
 
 #### View Recipe
 ![View](https://user-images.githubusercontent.com/74035623/172040330-ece12a40-ecfd-4f8f-ba2b-a59cbe6e0202.png)
+
+### :orange_circle: Features
+- This app uses the Spoonacular API to fetch recipes.
+- Homepage conatins popular and trending recipes with regular updates.
+- Search any recipes.
+- View the instructions and ingredients of any recipe.
