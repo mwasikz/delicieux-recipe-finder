@@ -16,7 +16,7 @@
 ### :orange_circle: Features
 - This app uses the Spoonacular API to fetch recipes.
 - Homepage conatins popular and trending recipes with regular updates.
-- Search any recipes.
+- Search for any recipes.
 - View the instructions and ingredients of any recipe.
 
 ### :orange_circle: How to Run
